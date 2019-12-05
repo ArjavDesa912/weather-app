@@ -1,0 +1,35 @@
+body{
+    color:#333333;
+    font-family:"times new roman";
+    max-width: 600px;
+    margin:0 auto;
+    padding:0 16px;
+
+}
+footer{
+    color:rgba(153, 153, 153, 0.533);
+    border-top : 1px solid #303030;
+    margin-top: 16px;
+    padding : 16px 0;
+}   
+header{
+    margin-top: 16px;
+    margin-bottom:48px;
+}
+
+h1{
+    font-size: 64px;
+    margin-bottom: 16px;
+}
+a {
+    text-decoration: none;
+    margin-right: 16px;
+    columns: #888888;
+}
+p{
+    color:#333333;
+    font-family:"times new roman";
+    max-width: 600px;
+    margin:0 auto;
+    padding:0 16px;
+}
